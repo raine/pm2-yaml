@@ -1,5 +1,9 @@
 # pm2-yaml
 
+```sh
+npm install -g pm2-yaml
+```
+
 Get JSON app declaration for PM2 from a directory where each YAML file is an
 app.
 
