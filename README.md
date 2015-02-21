@@ -12,5 +12,5 @@ npm install -g pm2-yaml
 ### usage
 
 ```
-pm2-yaml [dir with yaml] {start, stop, restart, delete}
+pm2-yaml {start, stop, restart, delete} [dir with yaml]
 ```
