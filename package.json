@@ -1,10 +1,13 @@
 {
   "name": "pm2-yaml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "repository": "raine/pm2-yaml",
   "preferGlobal": true,
-  "keywords": ["pm2", "yaml"],
+  "keywords": [
+    "pm2",
+    "yaml"
+  ],
   "bin": {
     "pm2-yaml": "bin/pm2-yaml"
   },
