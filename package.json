@@ -1,0 +1,23 @@
+{
+  "name": "pm2-yaml",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "raine/pm2-yaml",
+  "preferGlobal": true,
+  "bin": {
+    "pm2-yaml": "bin/pm2-yaml"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.12",
+    "gnode": "^0.1.1",
+    "js-yaml": "^3.2.7",
+    "minimist": "^1.1.0",
+    "ramda": "^0.10.0",
+    "recursive-readdir": "^1.2.1"
+  }
+}
