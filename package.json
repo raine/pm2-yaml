@@ -1,6 +1,6 @@
 {
   "name": "pm2-yaml",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "repository": "raine/pm2-yaml",
   "preferGlobal": true,
