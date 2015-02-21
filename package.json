@@ -4,6 +4,7 @@
   "description": "",
   "repository": "raine/pm2-yaml",
   "preferGlobal": true,
+  "keywords": ["pm2", "yaml"],
   "bin": {
     "pm2-yaml": "bin/pm2-yaml"
   },
